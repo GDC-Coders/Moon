@@ -1,4 +1,4 @@
-# Github.com/m000000000n                                                        
+# Github.com/7ua                                                      
 import random 
 import time
 import requests
