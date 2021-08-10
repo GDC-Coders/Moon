@@ -4,7 +4,7 @@
 
 
 
-Please star : )
+Enjoy? Star this repo ⭐
 
 
 # 
