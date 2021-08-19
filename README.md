@@ -1,10 +1,10 @@
-# <p align=center> Moon
+# <p align=center>Moon</p>
 
-<p align=center> *Super Small & Fast project to generate nitro codes & check them*
+<p align=center>Super Small & Fast project to generate nitro codes & check them</p>
 
 
 
-<p align=center> Enjoy? Star this repo ⭐
+<p align=center>Enjoy? Star this repo ⭐</p>
 
 
 
