@@ -1,4 +1,4 @@
-# Moon
+# <p align=center>Moon<\p>
 
 *Super Small & Fast project to generate nitro codes & check them*
 
