@@ -17,13 +17,20 @@ Enjoy? Star this repo ⭐
 
 - Nitro code checker
 
-- Nitro code sniper (enable in config.py)
+- Nitro code sniper (enable in versions/config.py)
 
 
 - Invite gen
 
 
 - Invite checker
+
+
+- Proxys (enable in versions/config.py)
+
+
+
+- Webhook notif (enable in versions/config.py)
 
 
 # Usage
