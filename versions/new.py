@@ -12,10 +12,8 @@ logo = ("""
 | |\/||| / \|| / \|| |\ ||
 | |  ||| \_/|| \_/|| | \||
 \_/  \|\____/\____/\_/  \|
-                          
-
-                            
-                            
+  Made by: Github.com/7ua. Orginal repo: Github.com/7ua/Moon.
+  
 """)
 if lettersOnly == True:
  a=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
@@ -25,7 +23,7 @@ if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 print(Fore.RED + logo)
 print(" Enter 1. to use Nitro gen & checker. \n Enter 2. to use code gen (no checker) \n Enter 3. to use invite gen (no checker) \n Enter 4. to use invite gen & checker.")
-print("Enter ? help")
+print(" Enter ? help")
 choice = input(Fore.YELLOW+"[-]: ")
 if choice == "1":                                                                                   
  while True:                                                                     
