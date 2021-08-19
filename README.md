@@ -1,4 +1,5 @@
 # <p align=center>Moon</p>
+<p align=center>![Discord](https://discord.gg/32xMhB5xhn)</p>
 
 <p align=center> Super Small & Fast project to generate nitro codes & check them </p>
 
