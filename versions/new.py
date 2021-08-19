@@ -6,6 +6,12 @@ import os
 from colorama import Fore, Back, Style
 from config import *
 os.system("clear")
+print("Moon. Made by Github.com/7ua. Moon will now start in a second.")
+time.sleep(1.7)
+os.system('clear')
+print('.. .')
+time.sleep(0.6)
+os.system('clear')
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 logo = ("""
  _      ____  ____  _     🌙
