@@ -1,6 +1,6 @@
 # <p align=center>Moon</p>
 
-<h6 align=center> Fast and small application generate nitro codes & check them</h6>
+<h6 align=center> Fast and small application to generate nitro codes & check them</h6>
 
 
 
