@@ -63,7 +63,7 @@ Now press run! Should work!
 
 # Upcoming Features
 
-Proxy Support
+- Discord token checker & gen.
 
 
 # Contributors
