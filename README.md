@@ -1,4 +1,4 @@
-# <p align=center>Moon <h6 align=center>🌙</h6></p>
+# <p align=center>Moon 🌙</p>
 
 <h6 align=center> Fast and small application to generate nitro codes & check them</h6>
 
