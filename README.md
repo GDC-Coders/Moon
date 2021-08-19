@@ -49,7 +49,7 @@ RUN: ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && pytho
 
 
 
-# You can also run on mobile devices! ios & android!
+# run on ios & android
 
 
 
