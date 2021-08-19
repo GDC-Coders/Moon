@@ -33,6 +33,9 @@ Enjoy? Star this repo ⭐
 - Webhook notif (enable in versions/config.py)
 
 
+-  Discord token checker & gen. (enable in versions/config.py)
+
+
 # Usage
 
 
@@ -63,7 +66,7 @@ Now press run! Should work!
 
 # Upcoming Features
 
-- Discord token checker & gen.
+- None for now.
 
 
 # Contributors
