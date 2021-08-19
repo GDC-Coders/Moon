@@ -1,6 +1,6 @@
 # Moon
 
-*Super Small project to generate nitro codes & check them*
+*Super Small & Fast project to generate nitro codes & check them*
 
 
 
