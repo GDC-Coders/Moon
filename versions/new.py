@@ -33,24 +33,25 @@ choice = input(Fore.YELLOW+"[-]: ")
 if choice == "1":                                                                                   
  while True:                                                                     
    m=random.sample(a, 16)
-   c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'?with_application=false&with_subscription_plan=true'
+   n=' '.join(m)
+   c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+n+'?with_application=false&with_subscription_plan=true'
                                                                                   
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
                                                                                   
-    print(Fore.WHITE+Back.RED +'[INVAILD]'+Style.RESET_ALL+'\033[31m' + '[x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
+    print(Fore.WHITE+Back.RED +'[INVAILD]'+Style.RESET_ALL+'\033[31m' + '[x]: discord.gifts/'+n+' Was invalid'+ '\033[0m')            
    if b.status_code == 429:                                                       
     print(Fore.WHITE+Back.YELLOW+"[WARNING]"+Style.RESET_ALL+"\033[1;33m"+"[-]: Rate Limited | Waiting 40 Seconds | Webhook:On | Webhook Alerted! | "+"\033[0m")
     time.sleep(39.9)
                                                                                    
    if b.status_code == 200:                                                       
-    print('[GOOD] [+]: discord.gifts/'+m+'Is Valid!')
+    print('[GOOD] [+]: discord.gifts/'+n+'Is Valid!')
     if sniperOn == True:
-      requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
+      requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+n+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
       print('Nitro redeemed!')
       if sniperOn == False:
        file = open("okcodes.txt", "w")                                              
-       file.write('discord.gifts/'+m)                                               
+       file.write('discord.gifts/'+n)                                               
        file.close()
        print("Code saved in 'okcodes.txt'")
        
