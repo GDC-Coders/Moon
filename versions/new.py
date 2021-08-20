@@ -32,23 +32,7 @@ print(" Enter ? help")
 choice = input(Fore.YELLOW+"[-]: ")
 if choice == "1":                                                                                   
  while True:                                                                     
-   w = random.choice(a)                                                           
-   d = random.choice(a)                                                           
-   e = random.choice(a)                                                           
-   f = random.choice(a)                                                           
-   g = random.choice(a)                                                           
-   h = random.choice(a)                                                           
-   i = random.choice(a)
-   j = random.choice(a) 
-   k = random.choice(a) 
-   l = random.choice(a) 
-   n = random.choice(a) 
-   o = random.choice(a) 
-   p = random.choice(a) 
-   q = random.choice(a) 
-   r = random.choice(a) 
-   s = random.choice(a) 
-   m = f+e+w+d+g+h+i+j+k+l+n+o+p+q+r+s                                                            
+   m=random.sample(a, 16)
    c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'?with_application=false&with_subscription_plan=true'
                                                                                   
    b = requests.get(c)                                                            
