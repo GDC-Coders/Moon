@@ -8,7 +8,7 @@
 
 
 # Note:
- ### Any features not here? Check #19!
+ ### Any features not here? Check #19 / https://github.com/7ua/Moon/discussions/19 !
 
 
 
