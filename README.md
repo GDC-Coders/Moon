@@ -7,7 +7,8 @@
 <p align=center>Enjoy? Star this repo ⭐</p>
 
 
-
+# Note:
+ ### Any features not here? Check #19!
 
 
 
