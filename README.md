@@ -9,7 +9,7 @@
 
 # Notes:
  ### This project is no longer being maintained by me (7ua) for now. GDC coders will now be maintaing this project. it  was fun working on this.
- ### Any features not here? Check #19 / https://github.com/7ua/Moon/discussions/19 !
+ ### Any features not here? Check #19 / https://github.com/GDC-Coders/Moon/discussions/19 !
 
 
 
@@ -43,7 +43,7 @@
 
 **Also note python3 is required to use this.**
 
-RUN: ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py```
+RUN: ```git clone https://github.com/GDC-Coders/Moon && cd Moon && cd versions && python3 new.py```
 
 **MUST CHECK CONFIG.PY**
 
@@ -61,7 +61,7 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type ```git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py```
+go to the terminal in the project and type ```git clone https://github.com/GDC-Coders/Moon && cd Moon && cd versions && python3 new.py```
 
 Now press run! Should work!
 
@@ -73,10 +73,10 @@ Now press run! Should work!
 
 # Contributors
 
-#### Owner 
+#### Owners
 
-Github.com/7ua
-
+Github.com/7ua untill Sat august 28 2021
+Github.com/GDC-Coders after august 28 2021 (current owner)
 
 #### Normal Contributors, Thank you to anyone to Contributes.
 
