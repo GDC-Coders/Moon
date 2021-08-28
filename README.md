@@ -7,7 +7,8 @@
 <p align=center>Enjoy? Star this repo ⭐</p>
 
 
-# Note:
+# Notes:
+ ### This project is no longer being maintained by me (7ua) for now. GDC coders will now be maintaing this project. it  was fun working on this.
  ### Any features not here? Check #19 / https://github.com/7ua/Moon/discussions/19 !
 
 
