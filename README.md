@@ -92,6 +92,6 @@ Github.com/PASS90
 
 
 
-READ
+
 ___________
  GDC Coders is not responsible for what you do with this code.
