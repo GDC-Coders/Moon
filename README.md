@@ -9,6 +9,7 @@
 
 # Notes:
  ### This project is no longer being maintained by me (7ua) for now. GDC coders will now be maintaing this project. it  was fun working on this.
+ ### gdc coders email: gdcc.contact@gmail.com
  ### Any features not here? Check #19 / https://github.com/GDC-Coders/Moon/discussions/19 !
 
 
