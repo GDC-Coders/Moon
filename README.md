@@ -6,6 +6,9 @@
 
 <p align=center>Enjoy? Star this repo ⭐</p>
 
+# DO NOT USE IT IS BROKEN AND FEATURES HAVE BEEN REMOVED. IT HAS BEEN REQUESTED TO BE REMOVED.
+
+
 
 # Notes:
  ### This project is no longer being maintained by me (7ua) for now. GDC coders will now be maintaing this project. it  was fun working on this.
